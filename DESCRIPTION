@@ -1,0 +1,12 @@
+Package: infix
+Type: Package
+Title: Infix Operators That Act Inplace
+Version: 0.0.0.9000
+Author: Pavel Filatov
+Maintainer: Pavel Filatov <filatov.py@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT Licence
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
